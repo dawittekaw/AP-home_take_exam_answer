@@ -447,6 +447,7 @@ Levenshtein distance between hsa-let-7i-3p MIMAT0004585 Homo sapiens let-7i-3p a
 
 # Task: repeat this for all species and plot
 ![Figure_3](https://github.com/dawittekaw/AP-home_take_exam_answer/assets/130226215/9c377edf-7bd7-4dec-aea9-410a461bca30)
+
 #3NB. for all other species let 7 mirnas we can generate the average levenshtein distance and plot using the code that we used for to generate the average levenshtein distance of let 7 mirna and plot for human by changing the species code only.
 
 
